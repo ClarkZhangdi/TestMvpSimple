@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_dialog_content_prompt">#343434</color>
+    <color name="color_dialog_gray">#ededf3</color>
+    <color name="color_dialog_title">#303030</color>
+    <color name="color_type_help">#1f97f1</color>
+    <color name="color_type_warning">#e8bd4b</color>
+    <declare-styleable name="HideableEditText"><attr format="color|reference" name="hide_icon"/><attr format="color|reference" name="visibe_icon"/></declare-styleable>
+    <string name="app_name">Main</string>
+</resources>

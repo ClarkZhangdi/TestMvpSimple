@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+    <group android:id="@+id/MAIN_MENU">
+        <item
+            android:id="@+id/system_time"
+            android:icon="@mipmap/ic_help"
+            android:title="时间-系统"></item>
+        <item
+            android:id="@+id/red_me"
+            android:title="红包-自己"></item>
+        <item
+            android:id="@+id/transfer_me"
+            android:title="转账-自己"></item>
+        <item
+            android:id="@+id/txt_me"
+            android:title="文字-自己"></item>
+        <item
+            android:id="@+id/red_you"
+            android:title="红包-对方"></item>
+        <item
+            android:id="@+id/transfer_you"
+            android:title="转账-对方"></item>
+        <item
+            android:id="@+id/txt_you"
+            android:title="文字-对方"></item>
+    </group>
+</menu>
